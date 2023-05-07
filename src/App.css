@@ -1,0 +1,30 @@
+body {
+background-color: #000000;
+color:black;
+}
+.card {
+  display: flex;
+  align-items: center;
+}
+
+input {
+  margin-bottom: 40px;
+}
+h2 {
+  margin-bottom: 60px;
+  color: black;
+}
+div {
+  background-color: white;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+img {
+  width: 275px;
+  height: 366px;
+}
